@@ -16,3 +16,8 @@ This script make it possible to produce drugs on locations. And you can also sel
 [VORP-Core](https://github.com/VORPCORE/VORP-Core/releases)
 
 progressBars
+
+
+## Support
+
+[Join our Discord](https://scalefog.com/discord)
